@@ -1,7 +1,3 @@
-Here's a brief and informal README file:
-
----
-
 # Guess the Number Game
 
 Welcome to the Guess the Number Game! This is a simple and fun number guessing game with a clean beige and off-white design.
