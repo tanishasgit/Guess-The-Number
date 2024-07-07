@@ -1,0 +1,49 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #f5f5dc; /* Beige */
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    background-color: #fffaf0; /* FloralWhite */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+}
+h1 {
+    color: #8b4513; /* SaddleBrown */
+}
+input[type="number"] {
+    width: calc(100% - 24px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #8b4513;
+    border-radius: 5px;
+}
+button {
+    background-color: #8b4513; /* SaddleBrown */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover {
+    background-color: #a0522d; /* Sienna */
+}
+
+.message {
+    margin: 10px 0;
+    color: #ff4500; /* OrangeRed */
+}
+
+#guesses {
+    color: #32cd32; /* LimeGreen */
+}
